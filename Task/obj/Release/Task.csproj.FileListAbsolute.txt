@@ -1,0 +1,8 @@
+C:\Users\hakan.supurkeci\source\repos\Task\Task\bin\Release\Task.exe.config
+C:\Users\hakan.supurkeci\source\repos\Task\Task\bin\Release\Task.exe
+C:\Users\hakan.supurkeci\source\repos\Task\Task\bin\Release\Task.pdb
+C:\Users\hakan.supurkeci\source\repos\Task\Task\obj\Release\Task.csproj.AssemblyReference.cache
+C:\Users\hakan.supurkeci\source\repos\Task\Task\obj\Release\Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakan.supurkeci\source\repos\Task\Task\obj\Release\Task.csproj.CoreCompileInputs.cache
+C:\Users\hakan.supurkeci\source\repos\Task\Task\obj\Release\Task.exe
+C:\Users\hakan.supurkeci\source\repos\Task\Task\obj\Release\Task.pdb
