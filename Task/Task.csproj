@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Basket.cs" />
+    <Compile Include="CalculatePrice.cs" />
+    <Compile Include="Discounts.cs" />
     <Compile Include="ProductManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
